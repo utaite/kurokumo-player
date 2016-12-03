@@ -1,0 +1,192 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Relative1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <SeekBar
+        android:id="@+id/music_pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/name1"
+        android:layout_alignLeft="@+id/button_down"
+        android:layout_alignRight="@+id/button_repeat"
+        android:indeterminate="false"
+        android:progressDrawable="@drawable/red_scrubber_progress"
+        android:thumb="@drawable/red_scrubber_control"
+        android:thumbOffset="17dp" />
+
+    <TextView
+        android:id="@+id/time1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/music_pro"
+        android:layout_alignRight="@+id/music_pro"
+        android:text="0:00"
+        android:textColor="#ffffff"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/time2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/music_pro"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="0:00"
+        android:textColor="#ffffff"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/name1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/name2"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:ellipsize="marquee"
+        android:fadingEdge="horizontal"
+        android:focusable="true"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="#ffffff"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/name2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_down"
+        android:layout_alignLeft="@+id/button_down"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="5dp"
+        android:ellipsize="marquee"
+        android:fadingEdge="horizontal"
+        android:focusable="true"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="#ffffff"
+        android:textSize="13dp" />
+
+
+    <ImageButton
+        android:id="@+id/button_play"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="27dp"
+        android:src="@drawable/apollo_holo_dark_pause" />
+
+    <ImageButton
+        android:id="@+id/button_left"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="27dp"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/button_play"
+        android:src="@drawable/apollo_holo_dark_prev" />
+
+    <ImageButton
+        android:id="@+id/button_right"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="27dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/button_play"
+        android:src="@drawable/apollo_holo_dark_next" />
+
+    <Button
+        android:id="@+id/button_down"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:layout_alignLeft="@+id/name1"
+        android:layout_alignTop="@+id/button_play"
+        android:text="Download"
+        android:textSize="8dp" />
+
+    <Button
+        android:id="@+id/button_delete"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:layout_alignBottom="@+id/button_play"
+        android:layout_alignLeft="@+id/name1"
+        android:text="Delete"
+        android:textSize="8dp" />
+
+
+    <Button
+        android:id="@+id/button_repeat"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:layout_alignBottom="@+id/button_play"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:text="Repeat OFF"
+        android:textSize="8dp" />
+
+    <Button
+        android:id="@+id/button_shuffle"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button_play"
+        android:layout_marginRight="10dp"
+        android:text="Shuffle OFF"
+        android:textSize="8dp" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/time2">
+
+        <ImageView
+            android:id="@+id/music_img"
+            android:layout_width="800dp"
+            android:layout_height="800dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:gravity="top"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/myImageViewText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/music_img"
+            android:layout_alignLeft="@+id/music_img"
+            android:layout_alignTop="@+id/music_img"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:textColor="#00ff0000"
+            android:textSize="15dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <ImageView
+            android:id="@+id/favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="10dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
