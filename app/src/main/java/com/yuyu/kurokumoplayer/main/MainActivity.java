@@ -70,6 +70,7 @@ public class MainActivity extends Activity {
                 fragment = new WebViewFragment();
                 bundle.putString("url", "https://twitter.com/kurokumo_01");
                 bundle.putBoolean("check", true);
+                fragment.setArguments(bundle);
                 break;
             case 2:
                 if (MusicService.mediaPlayer != null) {
@@ -81,18 +82,19 @@ public class MainActivity extends Activity {
                 fragment = new WebViewFragment();
                 bundle.putString("url", "http://www.nicovideo.jp/mylist/30546505");
                 bundle.putBoolean("check", false);
+                fragment.setArguments(bundle);
                 break;
             case 3:
                 myList.setVisibility(View.GONE);
                 fragment = new WebViewFragment();
                 bundle.putString("url", "https://www.instagram.com/___kurokumo");
                 bundle.putBoolean("check", true);
+                fragment.setArguments(bundle);
                 break;
             default:
                 break;
         }
         if (fragment != null) {
-            fragment.setArguments(bundle);
             FragmentManager fragmentManager = getFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
             mDrawerList.setItemChecked(position, true);
