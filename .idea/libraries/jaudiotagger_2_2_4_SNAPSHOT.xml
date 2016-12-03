@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jaudiotagger-2.2.4-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../KurokumoPlayer/lib/jaudiotagger-2.2.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaudiotagger-2.2.4-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

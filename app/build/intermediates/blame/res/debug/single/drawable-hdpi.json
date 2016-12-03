@@ -52,12 +52,12 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_twitter.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-hdpi\\ic_twitter.png"
-    },
-    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pause.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-hdpi\\button_pause.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_twitter.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-hdpi\\ic_twitter.png"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_play.png",
