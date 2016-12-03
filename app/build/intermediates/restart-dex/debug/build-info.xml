@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="140000564092638"
+    timestamp="144364956852019"
     token="-8705386485545572604"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="13776" />
+        duration="16312" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="23614" />
+        duration="1465" />
     <task
         name="verifier"
-        duration="10861" />
+        duration="376" />
 
     <artifact
         location="E:\Programming\Android\KurokumoPlayer\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="140000564092638"
+        timestamp="144364956852019"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Programming\Android\KurokumoPlayer\app\build\outputs\apk\app-debug.apk"

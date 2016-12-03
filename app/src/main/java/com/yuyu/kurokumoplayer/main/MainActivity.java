@@ -368,6 +368,8 @@ public class MainActivity extends Activity {
                                     }
                                 }
                                 if (timerCheck) {
+                                    timer = 3;
+                                    getSharedPreferences("timer", MODE_PRIVATE).edit().putInt("timer", 3).apply();
                                     finishAffinity();
                                     stopService(new Intent(getApplicationContext(), MusicService.class));
                                     android.os.Process.killProcess(android.os.Process.myPid());
