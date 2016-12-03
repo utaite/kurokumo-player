@@ -146,7 +146,7 @@ public class MainActivity extends Activity {
         };
         mDrawerLayout.setDrawerListener(mDrawerToggle);
         listValue = getSharedPreferences("list", MODE_PRIVATE).getInt("list", 0);
-        timerValue = getSharedPreferences("timer", MODE_PRIVATE).getInt("timer", 0);
+        timerValue = getSharedPreferences("timer", MODE_PRIVATE).getInt("timer", 3);
         lang = getSharedPreferences("lang", MODE_PRIVATE).getInt("lang", 2);
         myList = (ExpandableListView) findViewById(R.id.expandableListView1);
         groupList = mydb.getAllMusics();

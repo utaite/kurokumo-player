@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_twitter.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_twitter.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_scrubber_primary_holo.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_primary_holo.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\apollo_holo_dark_prev.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\apollo_holo_dark_prev.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\apollo_holo_dark_notifiation_bar_collapse.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\apollo_holo_dark_notifiation_bar_collapse.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_music.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_music.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\notify_panel_notification_icon_bg.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\apollo_holo_dark_next.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\apollo_holo_dark_next.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\button_pause.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\button_pause.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_scrubber_control_pressed_holo.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_nico.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_nico.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_scrubber_control_normal_holo.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_favorite2.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite2.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_chat.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_scrubber_secondary_holo.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_secondary_holo.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\apollo_holo_dark_pause.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\apollo_holo_dark_pause.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\button_play.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\button_play.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_favorite1.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite1.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_scrubber_track_holo_light.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_track_holo_light.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_instagram.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_scrubber_control_focused_holo.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_scrubber_control_disabled_holo.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\apollo_holo_dark_play.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-hdpi\\apollo_holo_dark_play.png"
+    }
+]

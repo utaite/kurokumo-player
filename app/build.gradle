@@ -8,6 +8,8 @@ android {
         applicationId "com.yuyu.kurokumoplayer"
         minSdkVersion 16
         targetSdkVersion 19
+        versionCode 1
+        versionName "0.1"
     }
 
     buildTypes {

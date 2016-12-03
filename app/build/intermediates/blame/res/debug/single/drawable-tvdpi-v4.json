@@ -1,13 +1,5 @@
 [
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },

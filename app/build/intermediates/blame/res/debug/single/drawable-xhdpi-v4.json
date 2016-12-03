@@ -1,415 +1,31 @@
 [
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pride_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\pride_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\okacha_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\okacha_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yoake_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\yoake_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\undead_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\undead_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\maru_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\maru_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\for_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\for_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amano_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\amano_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\doku_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\doku_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\asagao_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\asagao_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\interviewer_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\interviewer_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\oni_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\oni_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\regret_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\regret_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\donut_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\donut_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\okacha_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\okacha_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hibikase_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\hibikase_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kimino_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\kimino_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seki_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\seki_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sekai_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\sekai_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuudachi_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\yuudachi_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ama_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ama_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ao_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ao_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ame_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ame_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\oni_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\oni_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ima_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\ima_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conne_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\conne_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yomo_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\yomo_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lostone_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\lostone_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\uso_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\uso_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bakawa_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\bakawa_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuudachi_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\yuudachi_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alittle_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\alittle_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sorega_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\sorega_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rapun_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\rapun_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pride_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\pride_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ao_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\ao_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kimino_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\kimino_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yoake_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\yoake_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ima_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ima_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ai_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ai_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gishi_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\gishi_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hibikase_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\hibikase_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amao_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\amao_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amano_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\amano_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\donut_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\donut_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ama_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\ama_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\regret_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\regret_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\meiri_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\meiri_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sekai_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\sekai_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\koshi_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\koshi_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\doku_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\doku_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\undead_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\undead_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\luvo_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\luvo_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\daze_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\daze_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shounen_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\shounen_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kokoro_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\kokoro_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ai_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\ai_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bakawa_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\bakawa_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alittle_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\alittle_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\outer_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\outer_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\leave_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\leave_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rapun_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\rapun_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rapun_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\rapun_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pride_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\pride_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yoake_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\yoake_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cutter_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\cutter_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\donor_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\donor_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\losttime_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\losttime_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tatoeba_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\tatoeba_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gishi_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\gishi_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amano_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\amano_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
@@ -420,8 +36,20 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ringo_2.jpg"
     },
     {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\doku_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\doku_2.jpg"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\asagao_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\asagao_2.jpg"
+    },
+    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\interviewer_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\interviewer_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
@@ -436,40 +64,44 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tatoeba_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\tatoeba_2.jpg"
-    },
-    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\donut_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\donut_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\meiri_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\meiri_2.jpg"
     },
     {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\losttime_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\losttime_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\koshi_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\koshi_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\daze_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\daze_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yomo_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\yomo_2.jpg"
     },
     {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\okacha_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\okacha_2.jpg"
+    },
+    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\uso_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\uso_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hibikase_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\hibikase_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
@@ -484,40 +116,44 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\outer_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seki_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\seki_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shounen_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\shounen_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ama_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ama_2.jpg"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ame_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ame_2.jpg"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\oni_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\oni_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\haito_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\haito_2.jpg"
     },
     {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ao_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ao_2.jpg"
+    },
+    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seisou_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\seisou_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\higai_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\higai_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\atta_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\atta_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\end_2.jpg",
@@ -528,28 +164,28 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\moshimo_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seki_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\seki_2.jpg"
-    },
-    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kokoro_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\kokoro_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\girls_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\girls_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\leave_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\leave_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bakawa_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\bakawa_2.jpg"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuudachi_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\yuudachi_2.jpg"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alittle_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\alittle_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
@@ -560,10 +196,6 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\myr_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\myr_2.jpg"
     },
@@ -572,20 +204,36 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mousou_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\mousou_2.jpg"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sorega_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\sorega_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tsuyuake_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\tsuyuake_2.jpg"
     },
     {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\atta_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\atta_2.jpg"
+    },
+    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\atta_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\atta_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -596,16 +244,24 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\donor_2.jpg"
     },
     {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kimino_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\kimino_2.jpg"
+    },
+    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ima_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ima_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ai_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\ai_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
@@ -616,36 +272,24 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\youkai_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\end_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\end_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\maru_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\maru_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tsuyuake_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\tsuyuake_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\asagao_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\asagao_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gishi_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\gishi_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ashita_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\ashita_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amao_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\amao_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ashita_2.jpg",
@@ -656,44 +300,40 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\for_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ame_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\ame_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\regret_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\regret_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unravel_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\unravel_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ringo_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\ringo_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sekai_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\sekai_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lostone_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\lostone_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mousou_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\mousou_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sorega_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\sorega_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\koshi_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\koshi_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\interviewer_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\interviewer_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\undead_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\undead_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unravel_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\unravel_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\luvo_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\luvo_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
@@ -704,20 +344,8 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\myr_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\myr_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\youkai_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\youkai_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\daze_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\daze_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seisou_2.jpg",
@@ -728,52 +356,32 @@
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\conne_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\haito_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\haito_2.jpg"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\higai_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\higai_2.jpg"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\girls_2.jpg",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\girls_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amao_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\amao_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\luvo_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\luvo_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\moshimo_2.jpg",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\src\\main\\res\\drawable-xhdpi\\moshimo_2.jpg"
-    },
-    {
-        "merged": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "E:\\Programming\\Android\\KurokumoPlayer23\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+        "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\leave_2.jpg",
+        "source": "E:\\Programming\\Android\\KurokumoPlayer\\app\\src\\main\\res\\drawable-xhdpi\\leave_2.jpg"
     },
     {
         "merged": "E:\\Programming\\Android\\KurokumoPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
