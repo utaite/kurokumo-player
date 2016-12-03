@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="main.MainActivity">
+    <item
+        android:id="@+id/searchButton"
+        android:actionViewClass="android.widget.SearchView"
+        android:showAsAction="always"
+        android:title="Search" />
+    <item
+        android:id="@+id/menu_order"
+        android:orderInCategory="100"
+        android:title="order" />
+    <item
+        android:id="@+id/menu_timer"
+        android:orderInCategory="100"
+        android:title="timer" />
+    <item
+        android:id="@+id/menu_lang"
+        android:orderInCategory="100"
+        android:title="language" />
+</menu>
