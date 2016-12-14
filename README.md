@@ -1,3 +1,3 @@
 # KurokumoPlayer
-This is Android Application.
-18 ~ 19
+This is Android Application.<br/>
+(2015.11 ~ 2016.10)
