@@ -6,7 +6,7 @@ Kurokumo Player [개인프로젝트]
 
 - 사용 기술 : JAudiotagger
 
-- 기능 : 노래 다운로드 / 노래 검색 / 노래 즐겨찾기 / 노래 가사지원 / 셔플 및 반복재생 / 상단바를 이용한 노래 컨트롤
+- 기능 : 노래 다운로드, 노래 검색, 노래 즐겨찾기, 노래 가사지원, 셔플 및 반복재생, 상단바를 이용한 노래 컨트롤
 
 - [다운로드][link]
 [link]: https://github.com/Utaite/kurokumo-player/blob/master/readme/apk/com.yuyu.kurokumoplayer.apk
