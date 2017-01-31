@@ -1,4 +1,4 @@
-Kurokumo Player
+Kurokumo Player [개인프로젝트]
 =
 ####우타이테 '쿠로쿠모'의 노래를 다운로드 및 감상할 수 있는 어플리케이션
 
